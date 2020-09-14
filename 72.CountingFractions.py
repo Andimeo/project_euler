@@ -1,4 +1,4 @@
-# 欧拉函数打表
+# euler totient function table
 
 N = 1000001
 
